@@ -17,4 +17,4 @@ Draw the current frame of the video feed on it. Load the model using await blaze
 Add the working files (index.html, main.css, image_pred.js) to a folder. Name the folder blazeface(or any other name of your choice).
 
 ### Result
-![ Tfjs Blaze Pred detected Image](./face_Detection.png)
+![ Tfjs Blaze Pred detected Image](face_Detection.png)
